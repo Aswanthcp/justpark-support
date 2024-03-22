@@ -7,3 +7,4 @@ export const getusers = "get-users-list/";
 export const getBookings = "get-booking-list/";
 export const add_new_reservations = "add-new-reservations/";
 export const getParkingSlotbyplace = "get-slot-byPlace/";
+export const reservations_per_month = "reservations-per-month/";
