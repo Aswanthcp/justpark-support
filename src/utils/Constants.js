@@ -1,4 +1,5 @@
-export const baseUrl = "http://127.0.0.1:8000/support/";
+// export const baseUrl = "http://127.0.0.1:8000/support/";
+export const baseUrl = "https://justpark-backend.onrender.com/support/";
 
 export const LoginPost = "support-login/";
 export const userSignUP = "support-signup/";
